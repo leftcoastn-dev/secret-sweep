@@ -1,0 +1,17 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# IDEs/editors
+.vscode/
+*.swp
+*.sublime*
+
+# System files
+.DS_Store
+Thumbs.db
